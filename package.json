@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for nattours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyaghoobi/Natours.git"
+  },
+  "author": "Yasna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyaghoobi/Natours/issues"
+  },
+  "homepage": "https://github.com/yyaghoobi/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
